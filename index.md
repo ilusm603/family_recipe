@@ -2,6 +2,7 @@
 
 Set of recipes as given by grandma
 
-- Piccas (TODO)
+- Piccas 
+    - [base](pizzas/base.md)
 - Sauces (TODO)
 - Spreds (TODO)
